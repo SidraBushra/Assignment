@@ -34,4 +34,5 @@ if __name__ == '__main__':
 
 def myfunction():
     print("Hello World")
-    
+    def myfucnction2():
+        print("hello world again")
